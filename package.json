@@ -20,7 +20,7 @@
     "acrylic"
   ],
   "gallerBanner.color": "#3c3836",
-  "icon": "./icon.png",
+  "icon": "icon.png",
   "engines": {
     "vscode": "^1.66.0"
   },
