@@ -8,6 +8,17 @@
     "type": "git",
     "url": "https://github.com/Jack-LP/gruvbox-glass"
   },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "gruvbox",
+    "gruvbox glass",
+    "gruvbox dark",
+    "glass",
+    "jack paget",
+    "vibrancy",
+    "acrylic"
+  ],
   "engines": {
     "vscode": "^1.66.0"
   },

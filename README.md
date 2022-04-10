@@ -1,13 +1,49 @@
-# README
-## This is the README for your extension "gruvbox-glass"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+<div id="top"></div>
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="https://i.imgur.com/ojgVWc9.png" alt="Logo" width="auto" height="auto">
+  </a>
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+  <p align="center">
+    API based GitHub user search
+</div>
 
-**Enjoy!**
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href="#theme-screenshot">Theme Screenshot</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+  </ol>
+</details>
+
+<!-- ABOUT THE PROJECT -->
+
+## Theme Screenshot
+
+![theme-screenshot](https://i.imgur.com/zWSL20k.png)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<!-- CONTACT -->
+
+## Contact
+
+Jack Paget - <a href="mailto:jackpaget1@gmail.com">jackpaget1@gmail.com</a>
+
+Project Link: [Gruvbox Glass](https://github.com/Jack-LP/gruvbox-glass)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGMENTS -->
+
+## Acknowledgments
+
+- [Gruvbox](https://github.com/morhetz/gruvbox)
+- [Gruvbox for VSCode](https://github.com/jdinhify/vscode-theme-gruvbox)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
