@@ -1,0 +1,22 @@
+{
+  "name": "gruvbox-glass",
+  "displayName": "Gruvbox Glass",
+  "description": "My gruvbox fork",
+  "version": "0.0.1",
+  "publisher": "JackPaget",
+  "engines": {
+    "vscode": "^1.66.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Gruvbox Glass",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Gruvbox Glass-color-theme.json"
+      }
+    ]
+  }
+}
