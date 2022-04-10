@@ -4,6 +4,10 @@
   "description": "My gruvbox fork",
   "version": "0.0.1",
   "publisher": "JackPaget",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jack-LP/gruvbox-glass"
+  },
   "engines": {
     "vscode": "^1.66.0"
   },
