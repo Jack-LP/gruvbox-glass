@@ -8,7 +8,7 @@
   </a>
 
   <p align="center">
-    API based GitHub user search
+    Acrylic dark Gruvbox theme intended for use with Vibrancy
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -45,5 +45,6 @@ Project Link: [Gruvbox Glass](https://github.com/Jack-LP/gruvbox-glass)
 
 - [Gruvbox](https://github.com/morhetz/gruvbox)
 - [Gruvbox for VSCode](https://github.com/jdinhify/vscode-theme-gruvbox)
+- [Vibrancy](https://marketplace.visualstudio.com/items?itemName=eyhn.vscode-vibrancy)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
