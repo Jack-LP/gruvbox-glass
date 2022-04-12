@@ -15,7 +15,7 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#theme-screenshot">Theme Screenshot</a></li>
+    <li><a href="#theme-screenshots">Theme Screenshot</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
@@ -23,9 +23,15 @@
 
 <!-- ABOUT THE PROJECT -->
 
-## Theme Screenshot
+## Theme Screenshots
 
-![theme-screenshot](https://i.imgur.com/zWSL20k.png)
+#### With [Vibrancy](https://marketplace.visualstudio.com/items?itemName=eyhn.vscode-vibrancy)
+
+![theme-screenshot](https://i.imgur.com/OnPj04T.png)
+
+#### Without [Vibrancy](https://marketplace.visualstudio.com/items?itemName=eyhn.vscode-vibrancy)
+
+![theme-screenshot](https://i.imgur.com/R9HaKtQ.png)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -36,6 +42,8 @@
 Jack Paget - <a href="mailto:jackpaget1@gmail.com">jackpaget1@gmail.com</a>
 
 Project Link: [Gruvbox Glass](https://github.com/Jack-LP/gruvbox-glass)
+
+Marketplace Link: [Gruvbox Glass](https://marketplace.visualstudio.com/items?itemName=JackPaget.gruvbox-glass)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
