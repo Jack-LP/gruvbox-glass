@@ -53,7 +53,7 @@
     // SIDE BAR
     "sideBar.background": "#1d2021",
     "sideBar.foreground": "#d5c4a1",
-    "sideBar.border": "#3c383600",
+    "sideBar.border": "#363c3600",
     "sideBarTitle.foreground": "#ebdbb2",
     "sideBarSectionHeader.background": "#1d202100",
     "sideBarSectionHeader.foreground": "#ebdbb2",
@@ -186,9 +186,9 @@
     "terminal.background": "#1d2021",
     // TITLE BAR macOS (not tested)
     "titleBar.activeBackground": "#1d2021",
-    "titleBar.activeForeground": "#ffffff00",
+    "titleBar.activeForeground": "#ffffff50",
     "titleBar.inactiveBackground": "#1d2021",
-    "titleBar.inactiveForeground": "#ffffff00",
+    "titleBar.inactiveForeground": "#ffffff50",
     // GIT COLORS
     "gitDecoration.modifiedResourceForeground": "#d79921",
     "gitDecoration.deletedResourceForeground": "#cc241d",
