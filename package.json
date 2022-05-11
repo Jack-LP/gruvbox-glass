@@ -35,5 +35,8 @@
         "path": "./themes/Gruvbox Glass-color-theme.json"
       }
     ]
+  },
+  "dependencies": {
+    "vsce": "^2.7.0"
   }
 }
